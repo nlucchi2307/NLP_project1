@@ -35,5 +35,5 @@ We analyze how the **2025 Mobile World Congress in Barcelona** affects hotel pri
 - `text_analysis_DiD.ipynb`: preprocessing, word clouds, regression
 
 ## 👥 Authors
-Group project for BSE’s Master in Data Science  
+Text Mining and Introduction to NLP - BSE 2024-2025
 Deepak Kumar Malik, Noemi Lucchi, Tirdod Behbehani  
